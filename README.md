@@ -7,4 +7,4 @@ Merkle Trees are also really efficient. They allow us to compress large data set
 -Overall performance and scalability  
 -Simplified Payment Verification or (SPV)  
 
-![alt text](https://github.com/amanojha33/Merkle_p2p/docs/merkle.png)
+![alt text](/docs/merkle.png)
