@@ -5,9 +5,7 @@ Merkle Trees are also really efficient. They allow us to compress large data set
 
 ![alt text](/docs/merkle.png)
 
-A Merkle Tree is a complete binary tree which is used by Cryptocurrency SPV Wallets.
-
-Simple Payment Verification (SPV) is a technique described in Satoshi Nakamoto's paper. SPV allows a lightweight client to verify that a transaction is included in the Bitcoin blockchain, without downloading the entire blockchain.
+A Merkle Tree is a complete binary tree which is used by Cryptocurrency SPV Wallets. SPV allows a lightweight client to verify that a transaction is included in the Bitcoin blockchain, without downloading the entire blockchain.
 
 By using a merkle tree, one can validate a large data set contained inside the tree by just comparing the merkle root / root node of the tree.
 
